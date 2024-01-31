@@ -1,11 +1,11 @@
-# Joncarter
-Beautiful HTML,CSS and Bootstrap Portfolio
+# Keerti Vishwkarma
+Responsive HTML,CSS and Bootstrap Portfolio
 
 # Demo
-- https://joncarter.netlify.app/
+- [Preview](https://keerti1924.github.io/Portfolio-Website/)
 
 # Clone Project
-- https://github.com/SA7MAN/joncarter
+- https://github.com/keerti1924/Portfolio-Website/
 
 # Features
 - Fully Responsive
@@ -14,14 +14,3 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 - Smooth scrolling in each section.
 - Sticky Navigation on scrolling
 - and more ..
-
-
-# Credit
-- https://fonts.google.com/
-- https://line-awesome.com/
-- https://unsplash.com/
-- https://michalsnik.github.io/aos/
-
-
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
